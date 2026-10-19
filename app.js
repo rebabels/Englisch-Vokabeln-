@@ -21,9 +21,12 @@ function next() {
     $("question").textContent = "Geschafft! 🎉";
     $("answer").hidden = true;
     $("counter").textContent = `${done} Wörter geübt`;
+    $("restart").hidden = false;
+    $("next").hidden = true;
     return;
   }
-
+  $("restart").hidden = true;
+  $("next").hidden = false;
   current = queue.shift();
   $("question").textContent = current[$("direction").value];
   $("answer").textContent =
@@ -43,7 +46,6 @@ let activeUtterance = null;
 
 function speak() {
   if (!current) return;
-
   if (!("speechSynthesis" in window)) {
     $("message").textContent =
       "Sprachausgabe wird nicht unterstützt.";
@@ -69,7 +71,6 @@ function speak() {
   u.volume = 1;
 
   const voices = synth.getVoices();
-
   const britishVoice = voices.find(
     v => v.lang.toLowerCase() === "en-gb"
   );
@@ -85,7 +86,6 @@ function speak() {
   u.onstart = () => {
     $("message").textContent = "";
   };
-
   u.onerror = event => {
     if (event.error !== "canceled" &&
         event.error !== "interrupted") {
@@ -106,7 +106,6 @@ function speak() {
     if (synth.speaking && synth.paused) {
       synth.resume();
     }
-
     if (!synth.speaking && !synth.pending) {
       clearSpeechTimer();
     }
@@ -133,7 +132,6 @@ $("next").onclick = () => {
   if (current) done++;
   next();
 };
-
 $("repeat").onclick = () => {
   if (current) {
     queue.push(current);
@@ -141,6 +139,7 @@ $("repeat").onclick = () => {
   }
 };
 
+$("restart").onclick = reset;
 $("direction").onchange = reset;
 
 // Eigene Vokabeln laden
@@ -161,7 +160,6 @@ $("upload").onchange = async e => {
     ) {
       throw Error("Ungültiges Format");
     }
-
     words = data;
     reset();
 
