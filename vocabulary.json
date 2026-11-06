@@ -1,166 +1,278 @@
 [
   {
-    "en": "true",
-    "de": "wahr"
+    "en": "both",
+    "de": "beide; sowohl ... als auch"
   },
   {
-    "en": "football",
-    "de": "Fußball"
+    "en": "cookie",
+    "de": "Keks (amerikanisches Englisch)"
+  },
+  {
+    "en": "biscuit",
+    "de": "Keks (britisches Englisch)"
+  },
+  {
+    "en": "candy",
+    "de": "Süßigkeiten (amerikanisches Englisch)"
+  },
+  {
+    "en": "sweets",
+    "de": "Süßigkeiten (britisches Englisch)"
+  },
+  {
+    "en": "French fries",
+    "de": "Pommes frites"
+  },
+  {
+    "en": "crisps",
+    "de": "Kartoffelchips"
+  },
+  {
+    "en": "pants",
+    "de": "Hose (amerikanisches Englisch)"
+  },
+  {
+    "en": "trousers",
+    "de": "Hose (britisches Englisch)"
+  },
+  {
+    "en": "fall",
+    "de": "Herbst (amerikanisches Englisch)"
+  },
+  {
+    "en": "autumn",
+    "de": "Herbst (britisches Englisch)"
+  },
+  {
+    "en": "by the way",
+    "de": "übrigens"
+  },
+  {
+    "en": "photographer",
+    "de": "Fotograf/Fotografin"
+  },
+  {
+    "en": "language",
+    "de": "Sprache"
+  },
+  {
+    "en": "languages",
+    "de": "Sprachen"
+  },
+  {
+    "en": "grades",
+    "de": "Schulnoten"
+  },
+  {
+    "en": "smart",
+    "de": "klug; intelligent"
+  },
+  {
+    "en": "clever",
+    "de": "klug; schlau"
+  },
+  {
+    "en": "take photos",
+    "de": "Fotos machen"
+  },
+  {
+    "en": "photography",
+    "de": "Fotografie"
+  },
+  {
+    "en": "show someone around",
+    "de": "jemanden herumführen"
+  },
+  {
+    "en": "enjoy",
+    "de": "genießen"
+  },
+  {
+    "en": "else",
+    "de": "sonst; noch"
+  },
+  {
+    "en": "decide",
+    "de": "entscheiden"
+  },
+  {
+    "en": "confused",
+    "de": "verwirrt"
+  },
+  {
+    "en": "during",
+    "de": "während"
+  },
+  {
+    "en": "performance",
+    "de": "Aufführung; Vorstellung"
+  },
+  {
+    "en": "work",
+    "de": "funktionieren; arbeiten"
+  },
+  {
+    "en": "anyway",
+    "de": "jedenfalls; sowieso"
+  },
+  {
+    "en": "without",
+    "de": "ohne"
+  },
+  {
+    "en": "have fun",
+    "de": "Spaß haben"
+  },
+  {
+    "en": "watch",
+    "de": "beobachten; ansehen"
+  },
+  {
+    "en": "discuss",
+    "de": "diskutieren; besprechen"
   },
   {
     "en": "laugh",
     "de": "lachen"
   },
   {
-    "en": "airport",
-    "de": "Flughafen"
+    "en": "whisper",
+    "de": "flüstern"
   },
   {
-    "en": "this morning",
-    "de": "heute Morgen"
+    "en": "stammer",
+    "de": "stammeln"
   },
   {
-    "en": "journey",
-    "de": "Reise"
+    "en": "come up with",
+    "de": "sich etwas einfallen lassen"
   },
   {
-    "en": "hate",
-    "de": "hassen"
+    "en": "thought",
+    "de": "Gedanke"
   },
   {
-    "en": "cry",
-    "de": "weinen"
+    "en": "thoughts",
+    "de": "Gedanken"
   },
   {
-    "en": "paint",
-    "de": "malen; streichen"
+    "en": "realise",
+    "de": "erkennen; bemerken"
+  },
+  {
+    "en": "It's up to you.",
+    "de": "Wie du möchtest.; Du entscheidest."
+  },
+  {
+    "en": "preparations",
+    "de": "Vorbereitungen"
+  },
+  {
+    "en": "photo booth",
+    "de": "Fotobox"
+  },
+  {
+    "en": "miss",
+    "de": "verpassen; vermissen"
+  },
+  {
+    "en": "rush",
+    "de": "eilen; sich beeilen"
+  },
+  {
+    "en": "exchange",
+    "de": "austauschen"
+  },
+  {
+    "en": "through",
+    "de": "durch"
+  },
+  {
+    "en": "wave",
+    "de": "winken"
+  },
+  {
+    "en": "What's the matter?",
+    "de": "Was ist los?"
+  },
+  {
+    "en": "break the silence",
+    "de": "das Schweigen brechen"
+  },
+  {
+    "en": "decision",
+    "de": "Entscheidung"
+  },
+  {
+    "en": "definitely",
+    "de": "definitiv; eindeutig"
+  },
+  {
+    "en": "awkward",
+    "de": "unangenehm; peinlich"
+  },
+  {
+    "en": "let someone down",
+    "de": "jemanden im Stich lassen"
+  },
+  {
+    "en": "steal",
+    "de": "stehlen"
+  },
+  {
+    "en": "set up",
+    "de": "aufbauen; aufstellen"
+  },
+  {
+    "en": "break",
+    "de": "zerbrechen; kaputtmachen"
+  },
+  {
+    "en": "heavy",
+    "de": "schwer"
+  },
+  {
+    "en": "stole",
+    "de": "stahl; hat gestohlen (Vergangenheit von steal)"
+  },
+  {
+    "en": "broke",
+    "de": "zerbrach; hat zerbrochen (Vergangenheit von break)"
+  },
+  {
+    "en": "waved",
+    "de": "winkte; hat gewinkt"
+  },
+  {
+    "en": "anyone",
+    "de": "jemand; irgendjemand"
+  },
+  {
+    "en": "sights",
+    "de": "Sehenswürdigkeiten"
+  },
+  {
+    "en": "surprise",
+    "de": "überraschen"
+  },
+  {
+    "en": "mask",
+    "de": "Maske"
   },
   {
     "en": "fix",
     "de": "reparieren"
   },
   {
-    "en": "join",
-    "de": "beitreten; mitmachen"
+    "en": "school grades",
+    "de": "Schulnoten"
   },
   {
-    "en": "page",
-    "de": "Seite"
+    "en": "intelligent",
+    "de": "intelligent"
   },
   {
-    "en": "yesterday",
-    "de": "gestern"
-  },
-  {
-    "en": "good luck",
-    "de": "viel Glück"
-  },
-  {
-    "en": "presented",
-    "de": "präsentierte; hat präsentiert"
-  },
-  {
-    "en": "normal",
-    "de": "normal"
-  },
-  {
-    "en": "events",
-    "de": "Veranstaltungen"
-  },
-  {
-    "en": "chat",
-    "de": "plaudern"
-  },
-  {
-    "en": "charity",
-    "de": "Wohltätigkeit; guter Zweck"
-  },
-  {
-    "en": "ago",
-    "de": "vor (zeitlich)"
-  },
-  {
-    "en": "organised",
-    "de": "organisierte; hat organisiert"
-  },
-  {
-    "en": "collected",
-    "de": "sammelte; hat gesammelt"
-  },
-  {
-    "en": "rubbish",
-    "de": "Müll"
-  },
-  {
-    "en": "environment",
-    "de": "Umwelt"
-  },
-  {
-    "en": "eyes",
-    "de": "Augen"
-  },
-  {
-    "en": "poor",
-    "de": "arm"
-  },
-  {
-    "en": "sick",
-    "de": "krank"
-  },
-  {
-    "en": "tidied up",
-    "de": "räumte auf; hat aufgeräumt"
-  },
-  {
-    "en": "clean",
-    "de": "sauber"
-  },
-  {
-    "en": "clapped",
-    "de": "klatschte; hat geklatscht"
-  },
-  {
-    "en": "sale",
-    "de": "Verkauf"
-  },
-  {
-    "en": "exchange",
-    "de": "Austausch"
-  },
-  {
-    "en": "feeling",
-    "de": "Gefühl"
-  },
-  {
-    "en": "for example",
-    "de": "zum Beispiel"
-  },
-  {
-    "en": "interested in",
-    "de": "interessiert an"
-  },
-  {
-    "en": "robots",
-    "de": "Roboter"
-  },
-  {
-    "en": "skills",
-    "de": "Fähigkeiten; Fertigkeiten"
-  },
-  {
-    "en": "author",
-    "de": "Autor; Autorin"
-  },
-  {
-    "en": "creative",
-    "de": "kreativ"
-  },
-  {
-    "en": "writing",
-    "de": "Schreiben"
-  },
-  {
-    "en": "equipment",
-    "de": "Ausrüstung"
+    "en": "healthy",
+    "de": "gesund"
   }
 ]
